@@ -1,0 +1,8 @@
+
+//script needs to loop through the following:
+
+//automatically scroll down (and then back up)
+//get all the id tags for the posts
+//click on each post settings thing then wait 0.5 seconds
+//click on delete option and then wait another 0.5 seconds
+//then on the prompt click yes.
